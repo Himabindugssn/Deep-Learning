@@ -7,3 +7,5 @@ Loss function:(y-yi)^2 {y-actual ; yi - predicted}
 Learning algorithm: there is no learning algorithm as such. Brute force- search has to be done.
 Evaluation: no. of correct predictions/total no. of predictions.
 MP Neuron Class hasn't been used in this...
+
+
